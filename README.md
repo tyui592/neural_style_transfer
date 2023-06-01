@@ -16,7 +16,7 @@ Neural Style Transfer
 python main.py --noise_ratio 0.3 --iteration 1000
 ```
 
-### Resule per `noise_ratio`
+### Result per `noise_ratio`
 
 | `0.0` | `0.4` | `0.8` |
 | --- | --- | --- |
