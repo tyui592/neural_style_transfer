@@ -6,7 +6,7 @@ Neural Style Transfer
 
 | Content | Style | Result |
 | --- | --- | --- |
-| <img src='./imgs/golden_gate.jpg' height='256'> | <img src='./imgs/starry_night.jpg' height='256'> | <img src='./imgs/ex004.gif' height='256'> |
+| <img src='./imgs/golden_gate.jpg' width='256'> | <img src='./imgs/starry_night.jpg' width='256'> | <img src='./imgs/ex004.gif' width='256'> |
 
 ## Usage
 ### Requirements
